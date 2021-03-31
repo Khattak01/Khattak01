@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Khattak01 </h1> <h4 style="display:inline">A developer who knows how to design</h4>
+<h1>👋 Hi, I’m Khattak01 </h1> <h4 display="inline">A developer who knows how to design</h4>
 
 🔭 I’m currently working on my final year project
 
