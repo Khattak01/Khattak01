@@ -4,7 +4,7 @@
 
 ❤️ I love to design ui, code, build websites and web applications.
 
-🌱 I'm learning python
+🌱 I'm learning Spring Framework
 
 👯 I’m looking to collaborate on Any Open Source Project
 
