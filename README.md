@@ -4,7 +4,7 @@
 
 ❤️ I love to design ui, code, build websites and web applications.
 
-🌱 I'm learning React Native, Next js
+🌱 I'm learning React Native, Electron js
 
 👯 I’m looking to collaborate on Any Open Source Project
 
