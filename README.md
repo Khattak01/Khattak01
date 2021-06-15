@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Khattak01 </h1>
 
-🔭 I’m currently working on my final year project
+🔭 I’m currently working on a cyber project.
 
 ❤️ I love to design ui, code, build websites and web applications.
 
