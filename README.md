@@ -12,7 +12,7 @@
 
 📚 Learning new things, self driven, hard working and friendly.😃
 
-💬 Ask me about <strong>React, node, mongoDB, Firebase, UI designing, Penetration Testing, Network Security, Netwrok Configuration</strong>, Full Stack Development, Python, C#, Software testing
+💬 Ask me about <strong>React, node, mongoDB, Firebase, UI designing, Penetration Testing, Network Security, Servers Configuration</strong>, Full Stack Development, Python, C#, Software testing
 
 📫 Reach me via Email
 
