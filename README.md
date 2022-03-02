@@ -4,7 +4,7 @@
 
 ❤️ I love to design ui, code, build websites and web applications.
 
-🌱 I'm learning React Native, Electron js
+🌱 I'm learning Blockchain(solidity, hyperledger fabric) and Flask
 
 👯 I’m looking to collaborate on Any Open Source Project
 
@@ -12,7 +12,7 @@
 
 📚 Learning new things, self driven, hard working and friendly.😃
 
-💬 Ask me about <strong>React, node, mongoDB, Firebase, UI designing</strong>, Full Stack Development, Python, C#, Software testing
+💬 Ask me about <strong>React, node, mongoDB, Firebase, UI designing, Penetration Testing, Network Security, Netwrok Configuration</strong>, Full Stack Development, Python, C#, Software testing
 
 📫 Reach me via Email
 
