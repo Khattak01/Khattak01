@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Khattak01 </h1>
 
-🔭 I’m currently working on an automated Penetration Testing tool.
+🔭 I’m currently working on a Self Cyber Defense Evaluation System (SCYDES).
 
 ❤️ I love to design UI, security testing, test an app, code, build websites and web applications.
 
