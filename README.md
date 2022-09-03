@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on a Self Cyber Defense Evaluation System (automated Penetration Testing Tool).
 
-❤️ I love to design UI, security testing, test an app, code, build websites and web applications.
+❤️ I love to design UI, security testing, test an app, code, build web applications.
 
-🌱 I'm learning Blockchain(solidity, hyperledger fabric) and Flask
+🌱 I'm learning Blockchain Development and Copywriting
 
 👯 I’m looking to collaborate on Any Open Source Project
 
