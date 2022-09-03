@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Khattak01 </h1>
 
-🔭 I’m currently working on a cyber security project.
+🔭 I’m currently working on an automated Penetration Testing tool.
 
 ❤️ I love to design UI, security testing, test an app, code, build websites and web applications.
 
