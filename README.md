@@ -4,7 +4,7 @@ With a strong background in Full Stack Development and a wide range of technical
 
 In addition to my technical skills, I am also <strong>friendly and approachable, making me a great collaborator and team player</strong>. I also have extensive experience with <strong>Penetration Testing and software testing, as well as Firewall Configurations</strong>, so you can be confident in my ability to help you build secure, reliable applications.
 
-So if you're looking for someone who is self-driven, hard-working, and passionate about software development, I would love the opportunity to collaborate with you on your next Open Source project. Please don't hesitate to get in touch if you have any questions or would like to know more about my experience and skills.
+So if you're looking for someone who is <strong>self-driven, hard-working, and passionate about software development</strong>, I would love the opportunity to collaborate with you on your next Open Source project. Please don't hesitate to get in touch if you have any questions or would like to know more about my experience and skills.
 
 
 📫 Reach me via Email <strong>mskhattak.ncs@gmail.com</strong>
