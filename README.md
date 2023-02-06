@@ -1,6 +1,6 @@
 👋 Hi, I’m Khattak01, a dedicated and motivated software developer with a passion for technology and Open Source projects. I’m always looking for new opportunities to collaborate and contribute to meaningful projects that can make a difference.
 
-With a strong background in Full Stack Development and a wide range of technical skills, including <strong>React, Node, Flask, SQL, MongoDB, Firebase, Web Development, Network Security, Server Configurations, C++, Javascript and Python </strong>, I am well equipped to handle a variety of challenges and projects.
+With a strong background in Full Stack Development and a wide range of technical skills, including <strong>React, Node, Flask, SQL, MongoDB, Firebase, Web Development, Network Security, Server Configurations, C++, Javascript and Python</strong>, I am well equipped to handle a variety of challenges and projects.
 
 In addition to my technical skills, I am also <strong>friendly and approachable, making me a great collaborator and team player</strong>. I also have extensive experience with <strong>Penetration Testing and software testing, as well as Firewall Configurations</strong>, so you can be confident in my ability to help you build secure, reliable applications.
 
